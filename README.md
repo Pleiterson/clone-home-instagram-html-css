@@ -24,7 +24,7 @@ Neste curso criamos a página de login do Instagram: nesse projeto, será aborda
 
 <i><b>A imagem principal da página ainda não é a do Instagrma. Posteriormente deixarei a mesma imagem da rede social, mudando vários perfis como modelo. Assim como o footer da página.</b></i>
 
-- <b>[Projeto desenvolvido]()</b>
+- [Projeto desenvolvido](https://clone-instagram.vercel.app/)
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
@@ -37,6 +37,9 @@ Neste curso criamos a página de login do Instagram: nesse projeto, será aborda
 <h3>📝 Licença</h3>
 
 - Este projeto está sob a licença [MIT](./LICENSE).
+
+
+<img src="./assets/projeto.png" title="Clone Instagram - DIO">
 
 
 <!--Bottom session-->
