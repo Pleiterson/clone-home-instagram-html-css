@@ -11,7 +11,9 @@
 </p>
 
 <!--Banner session-->
-<img src="./assets/cover_dio.png" alt="DIO" title="Digital Innovation One">
+<p align="center">
+  <img src="./assets/cover_dio.png" alt="DIO" title="Digital Innovation One">
+</p>
 
 <!--About session-->
 <h1 align="center">Recriando a página inicial do Instagram<br>Digital Innovation One</h1>
@@ -24,10 +26,13 @@ Neste curso criamos a página de login do Instagram: nesse projeto, será aborda
 
 <i><b>A imagem principal da página ainda não é a do Instagrma. Posteriormente deixarei a mesma imagem da rede social, mudando vários perfis como modelo. Assim como o footer da página.</b></i>
 
-PS.: alguns os links deste clone retornam para a mesma página.
+<i>PS.: alguns os links deste clone retornam para a mesma página.</i>
 
 - [Projeto desenvolvido](https://clone-instagram.vercel.app/)
 
+<p align="center">
+  <img src="./assets/projeto.gif" title="Clone Instagram - DIO">
+</p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
@@ -39,9 +44,6 @@ PS.: alguns os links deste clone retornam para a mesma página.
 <h3>📝 Licença</h3>
 
 - Este projeto está sob a licença [MIT](./LICENSE).
-
-
-<img src="./assets/projeto.png" title="Clone Instagram - DIO">
 
 
 <!--Bottom session-->
