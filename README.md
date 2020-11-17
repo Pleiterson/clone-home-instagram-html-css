@@ -30,9 +30,8 @@ Neste curso criamos a página de login do Instagram: nesse projeto, será aborda
 
 - [Projeto desenvolvido](https://clone-instagram.vercel.app/)
 
-<p align="center">
-  <img src="./assets/projeto.gif" title="Clone Instagram - DIO">
-</p>
+<p align="center"><img src="./assets/projeto.gif" title="Clone Instagram - DIO"></p>
+<p align="center"><img src="./assets/projeto-responsivo.gif" title="Clone Instagram - DIO"></p>
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
