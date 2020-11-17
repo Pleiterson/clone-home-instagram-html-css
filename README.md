@@ -18,13 +18,13 @@
 <!--About session-->
 <h1 align="center">Recriando a página inicial do Instagram<br>Digital Innovation One</h1>
 
-Curso do Bottcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
+Curso do Bootcamp HTML Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
-<img src="./assets/badge-curso.png" title="Badge" widht="70" height="70">
+<img src="./assets/badge-curso.png" title="Badge" width="70" height="70">
 
 Neste curso criamos a página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
 
-<i><b>A imagem principal da página ainda não é a do Instagrma. Posteriormente deixarei a mesma imagem da rede social, mudando vários perfis como modelo. Assim como o footer da página.</b></i>
+<i><b>A imagem principal da página ainda não é a do Instagram. Posteriormente deixarei a mesma imagem da rede social, mudando vários perfis como modelo. Assim como o footer da página.</b></i>
 
 <i>PS.: alguns os links deste clone retornam para a mesma página.</i>
 
@@ -47,4 +47,4 @@ Neste curso criamos a página de login do Instagram: nesse projeto, será aborda
 
 
 <!--Bottom session-->
-<h4 align=center>Made with by <a href="https://www.linkedin.com/in/pleiterson">Pleiterson Amorim</a></h4>
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
